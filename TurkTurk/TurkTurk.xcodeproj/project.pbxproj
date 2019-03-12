@@ -7,6 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B00AA9D0223774D600970859 /* placeholderTweet.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B00AA9CF223774D500970859 /* placeholderTweet.jpg */; };
+		B00AA9DD22377F5C00970859 /* icons8-stack-of-tweets-30.png in Resources */ = {isa = PBXBuildFile; fileRef = B00AA9DC22377F5600970859 /* icons8-stack-of-tweets-30.png */; };
+		B00AA9E722377F7800970859 /* icons8-about-30.png in Resources */ = {isa = PBXBuildFile; fileRef = B00AA9E422377F6C00970859 /* icons8-about-30.png */; };
+		B00AA9E822377F7800970859 /* icons8-about-60.png in Resources */ = {isa = PBXBuildFile; fileRef = B00AA9E522377F6C00970859 /* icons8-about-60.png */; };
+		B00AA9E922377F7800970859 /* icons8-about-90.png in Resources */ = {isa = PBXBuildFile; fileRef = B00AA9E622377F6C00970859 /* icons8-about-90.png */; };
+		B00AA9EA22377F7800970859 /* icons8-question-mark-30.png in Resources */ = {isa = PBXBuildFile; fileRef = B00AA9E222377F6700970859 /* icons8-question-mark-30.png */; };
+		B00AA9EB22377F7800970859 /* icons8-question-mark-60.png in Resources */ = {isa = PBXBuildFile; fileRef = B00AA9E122377F6700970859 /* icons8-question-mark-60.png */; };
+		B00AA9EC22377F7800970859 /* icons8-question-mark-90.png in Resources */ = {isa = PBXBuildFile; fileRef = B00AA9E322377F6700970859 /* icons8-question-mark-90.png */; };
+		B00AA9ED22377F7800970859 /* icons8-settings-30.png in Resources */ = {isa = PBXBuildFile; fileRef = B00AA9DF22377F6100970859 /* icons8-settings-30.png */; };
+		B00AA9EE22377F7800970859 /* icons8-settings-60.png in Resources */ = {isa = PBXBuildFile; fileRef = B00AA9E022377F6100970859 /* icons8-settings-60.png */; };
+		B00AA9EF22377F7800970859 /* icons8-settings-90.png in Resources */ = {isa = PBXBuildFile; fileRef = B00AA9DE22377F6100970859 /* icons8-settings-90.png */; };
+		B00AA9F022377F7800970859 /* icons8-stack-of-tweets-60.png in Resources */ = {isa = PBXBuildFile; fileRef = B00AA9DA22377F5600970859 /* icons8-stack-of-tweets-60.png */; };
+		B00AA9F122377F7800970859 /* icons8-stack-of-tweets-90.png in Resources */ = {isa = PBXBuildFile; fileRef = B00AA9DB22377F5600970859 /* icons8-stack-of-tweets-90.png */; };
 		B0FF3471221519A500E0B644 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0FF3470221519A500E0B644 /* AppDelegate.swift */; };
 		B0FF3473221519A500E0B644 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0FF3472221519A500E0B644 /* ViewController.swift */; };
 		B0FF3476221519A500E0B644 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B0FF3474221519A500E0B644 /* Main.storyboard */; };
@@ -34,6 +47,19 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B00AA9CF223774D500970859 /* placeholderTweet.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = placeholderTweet.jpg; sourceTree = "<group>"; };
+		B00AA9DA22377F5600970859 /* icons8-stack-of-tweets-60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-stack-of-tweets-60.png"; sourceTree = "<group>"; };
+		B00AA9DB22377F5600970859 /* icons8-stack-of-tweets-90.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-stack-of-tweets-90.png"; sourceTree = "<group>"; };
+		B00AA9DC22377F5600970859 /* icons8-stack-of-tweets-30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-stack-of-tweets-30.png"; sourceTree = "<group>"; };
+		B00AA9DE22377F6100970859 /* icons8-settings-90.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-settings-90.png"; sourceTree = "<group>"; };
+		B00AA9DF22377F6100970859 /* icons8-settings-30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-settings-30.png"; sourceTree = "<group>"; };
+		B00AA9E022377F6100970859 /* icons8-settings-60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-settings-60.png"; sourceTree = "<group>"; };
+		B00AA9E122377F6700970859 /* icons8-question-mark-60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-question-mark-60.png"; sourceTree = "<group>"; };
+		B00AA9E222377F6700970859 /* icons8-question-mark-30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-question-mark-30.png"; sourceTree = "<group>"; };
+		B00AA9E322377F6700970859 /* icons8-question-mark-90.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-question-mark-90.png"; sourceTree = "<group>"; };
+		B00AA9E422377F6C00970859 /* icons8-about-30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-about-30.png"; sourceTree = "<group>"; };
+		B00AA9E522377F6C00970859 /* icons8-about-60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-about-60.png"; sourceTree = "<group>"; };
+		B00AA9E622377F6C00970859 /* icons8-about-90.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-about-90.png"; sourceTree = "<group>"; };
 		B0FF346D221519A500E0B644 /* TurkTurk.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TurkTurk.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0FF3470221519A500E0B644 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B0FF3472221519A500E0B644 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -74,6 +100,26 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B00AA9D12237750300970859 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				B00AA9E422377F6C00970859 /* icons8-about-30.png */,
+				B00AA9E522377F6C00970859 /* icons8-about-60.png */,
+				B00AA9E622377F6C00970859 /* icons8-about-90.png */,
+				B00AA9E222377F6700970859 /* icons8-question-mark-30.png */,
+				B00AA9E122377F6700970859 /* icons8-question-mark-60.png */,
+				B00AA9E322377F6700970859 /* icons8-question-mark-90.png */,
+				B00AA9DF22377F6100970859 /* icons8-settings-30.png */,
+				B00AA9E022377F6100970859 /* icons8-settings-60.png */,
+				B00AA9DE22377F6100970859 /* icons8-settings-90.png */,
+				B00AA9DC22377F5600970859 /* icons8-stack-of-tweets-30.png */,
+				B00AA9DA22377F5600970859 /* icons8-stack-of-tweets-60.png */,
+				B00AA9DB22377F5600970859 /* icons8-stack-of-tweets-90.png */,
+				B00AA9CF223774D500970859 /* placeholderTweet.jpg */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
 		B0FF3464221519A500E0B644 = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +127,7 @@
 				B0FF3484221519A600E0B644 /* TurkTurkTests */,
 				B0FF348F221519A600E0B644 /* TurkTurkUITests */,
 				B0FF346E221519A500E0B644 /* Products */,
+				B00AA9D12237750300970859 /* Images */,
 			);
 			sourceTree = "<group>";
 		};
@@ -229,9 +276,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B00AA9E922377F7800970859 /* icons8-about-90.png in Resources */,
+				B00AA9E722377F7800970859 /* icons8-about-30.png in Resources */,
 				B0FF347B221519A600E0B644 /* LaunchScreen.storyboard in Resources */,
+				B00AA9EF22377F7800970859 /* icons8-settings-90.png in Resources */,
+				B00AA9ED22377F7800970859 /* icons8-settings-30.png in Resources */,
+				B00AA9EA22377F7800970859 /* icons8-question-mark-30.png in Resources */,
+				B00AA9EB22377F7800970859 /* icons8-question-mark-60.png in Resources */,
+				B00AA9F022377F7800970859 /* icons8-stack-of-tweets-60.png in Resources */,
+				B00AA9F122377F7800970859 /* icons8-stack-of-tweets-90.png in Resources */,
+				B00AA9D0223774D600970859 /* placeholderTweet.jpg in Resources */,
+				B00AA9EE22377F7800970859 /* icons8-settings-60.png in Resources */,
+				B00AA9EC22377F7800970859 /* icons8-question-mark-90.png in Resources */,
 				B0FF3478221519A600E0B644 /* Assets.xcassets in Resources */,
 				B0FF3476221519A500E0B644 /* Main.storyboard in Resources */,
+				B00AA9E822377F7800970859 /* icons8-about-60.png in Resources */,
+				B00AA9DD22377F5C00970859 /* icons8-stack-of-tweets-30.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
